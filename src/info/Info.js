@@ -121,18 +121,30 @@ export const info = {
       techno: ['Javascrip', 'ReactJs', 'Nodejs'],
       description: 'Lorem Lorem u ipsum',
     },
-    // {
-    //   title: 'Project 3',
-    //   image: mock3,
-    //   techno: ['Javascrip', 'ReactJs Pwa', 'Strapijs'],
-    //   description: 'Lorem Lorem u ipsum',
-    // },
-    // {
-    //   title: 'Project 4',
-    //   image: mock4,
-    //   techno: ['Javascrip', 'Reactj Pwa', 'Strapijs'],
-    //   description: 'Lorem Lorem u ipsum',
-    // },
+    {
+      title: 'Project 3',
+      image: mock3,
+      techno: ['Javascrip', 'ReactJs Pwa', 'Strapijs'],
+      description: 'Lorem Lorem u ipsum',
+    },
+    {
+      title: 'Project 4',
+      image: mock4,
+      techno: ['Javascrip', 'Reactj Pwa', 'Strapijs'],
+      description: 'Lorem Lorem u ipsum',
+    },
+    {
+      title: 'Clone ciné',
+      image: mock5,
+      techno: ['Javascript', 'ReactJs', 'Movie database API'],
+      description: 'Lorem Lorem u ipsum',
+    },
+    {
+      title: 'Clone ciné',
+      image: mock5,
+      techno: ['Javascript', 'ReactJs', 'Movie database API'],
+      description: 'Lorem Lorem u ipsum',
+    },
     {
       title: 'Clone ciné',
       image: mock5,

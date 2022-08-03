@@ -1,9 +1,9 @@
 import self from '../img/self.jpg'
 import laKinoise from '../img/la_kinoise.png'
 import ndule from '../img/ndule.png'
-import mock3 from '../img/mock3.png'
-import mock4 from '../img/mock4.png'
-import mock5 from '../img/mock5.png'
+// import mock3 from '../img/mock3.png'
+// import mock4 from '../img/mock4.png'
+// import mock5 from '../img/mock5.png'
 
 export let colors = ['rgb(0,255,164)', 'rgb(166,104,255)']
 
@@ -100,12 +100,8 @@ export const info = {
     },
     {
       label: 'Travail en équipe',
-      emoji: '🎥',
+      emoji: '🌶',
     },
-    // {
-    //   label: 'cooking',
-    //   emoji: '🌶',
-    // },
   ],
   portfolio: [
     {
@@ -119,36 +115,6 @@ export const info = {
       title: 'D-ndule',
       image: ndule,
       techno: ['Javascrip', 'ReactJs', 'Nodejs'],
-      description: 'Lorem Lorem u ipsum',
-    },
-    {
-      title: 'Project 3',
-      image: mock3,
-      techno: ['Javascrip', 'ReactJs Pwa', 'Strapijs'],
-      description: 'Lorem Lorem u ipsum',
-    },
-    {
-      title: 'Project 4',
-      image: mock4,
-      techno: ['Javascrip', 'Reactj Pwa', 'Strapijs'],
-      description: 'Lorem Lorem u ipsum',
-    },
-    {
-      title: 'Clone ciné',
-      image: mock5,
-      techno: ['Javascript', 'ReactJs', 'Movie database API'],
-      description: 'Lorem Lorem u ipsum',
-    },
-    {
-      title: 'Clone ciné',
-      image: mock5,
-      techno: ['Javascript', 'ReactJs', 'Movie database API'],
-      description: 'Lorem Lorem u ipsum',
-    },
-    {
-      title: 'Clone ciné',
-      image: mock5,
-      techno: ['Javascript', 'ReactJs', 'Movie database API'],
       description: 'Lorem Lorem u ipsum',
     },
   ],

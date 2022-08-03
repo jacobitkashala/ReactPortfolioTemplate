@@ -53,7 +53,7 @@ export default function Home() {
 
         <Box
           display={'flex'}
-          gap={'1.5rem'}
+          flex-wrap={'wrap'}
           justifyContent={'flex-start'}
           fontSize={{ xs: '2rem', md: '2.5rem' }}
         >

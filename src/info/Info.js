@@ -1,8 +1,8 @@
 import self from '../img/self.jpg'
 import laKinoise from '../img/la_kinoise.png'
 import ndule from '../img/ndule.png'
-// import mock3 from '../img/mock3.png'
-// import mock4 from '../img/mock4.png'
+import mndule from '../img/m_ndule.png'
+// import koumishop from '../img/koumishop.png'
 // import mock5 from '../img/mock5.png'
 
 export let colors = ['rgb(0,255,164)', 'rgb(166,104,255)']
@@ -109,13 +109,26 @@ export const info = {
       image: laKinoise,
       techno: ['Javascrip', 'ReactJs Pwa', 'StrapiJs'],
       description:
-        "Mise en place d'un dashboard pour la gestion de production et de vente de café.",
+        "Mise en place d'un dashboard pour la gestion de production et de vente de café La Kinoise.",
     },
     {
       title: 'D-ndule',
       image: ndule,
-      techno: ['Javascrip', 'ReactJs', 'Nodejs'],
-      description: 'Lorem Lorem u ipsum',
+      techno: ['Javascript', 'ReactJs', 'Nodejs'],
+      description: "D-ndule est un projet d'une application de streaming avec un dashboard pour gérer les musiciens ainsi que leur album.",
     },
+    {
+      title: 'Mobile-ndule',
+      image: mndule,
+      techno: ['Javascript','ReactNative','Nodejs'],
+      description: "L'application cliente qui permet à tous les utilisateurs de télécharger et écouter de chansons.",
+    },
+    // {
+    //   title: 'Koumishop app',
+    //   image: koumishop,
+    //   techno: ['Javascript','ReactNative','Nodejs'],
+    //   description: "L'application cliente qui permet à tous les utilisateurs de télécharger et écouter de chansons.",
+    // },
   ],
 }
+//
